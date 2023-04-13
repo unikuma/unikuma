@@ -13,4 +13,4 @@
 AquesTalkPlayerを使って簡単にAviUtlでゆっくり動画を作れるソフトウェア。AquesTalkPlayer版ゆくサク。
 
 ## [棒読みさん簡易版プラグイン](https://github.com/unikuma/Plugin_BSimple/releases)
-棒読みちゃん用プラグイン。上記の棒読みさんっぽい事を棒読みさんを使い行う。
+棒読みちゃん用プラグイン。上記の棒読みさんっぽい事を棒読みちゃんを使い行う。
