@@ -7,7 +7,7 @@
 
 ## 主な制作物
 ## [棒読みさん WinForms版](https://github.com/unikuma/Bouyomisan.WinForms/releases)
-AquesTalkPlayerを使って簡単にAviUtlでゆっくり動画を作れるソフトウェア。AquesTalkPlayer版ゆくサク。
+AquesTalkPlayerを使って簡単にAviUtlでゆっくり動画を作れるソフトウェア。AquesTalkPlayer版ゆくサク。  
 詳しい紹介や導入方法はこちらから→https://youtu.be/uy6GotftCno
 
 ## [f2ft](https://github.com/unikuma/f2ft/releases)
