@@ -6,7 +6,7 @@
 後、誰かGitとGitHub教えてください、難しくて禿げてます。ちょっと分かるようになってきたけど。
 
 ## 主な制作物
-## [棒読みさん WinForms版](https://github.com/unikuma/Bouyomisan.WinForms/releases)
+## [棒読みさんWinForms版](https://github.com/unikuma/Bouyomisan.WinForms/releases)
 AquesTalkPlayerを使って簡単にAviUtlでゆっくり動画を作れるソフトウェア。AquesTalkPlayer版ゆくサク。  
 詳しい紹介や導入方法はこちらから→https://youtu.be/uy6GotftCno
 
