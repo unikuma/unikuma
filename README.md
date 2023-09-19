@@ -2,8 +2,7 @@
 
 ## 自己紹介
 うにくまと言います。ゆっくり実況の手助けになるようなプログラムを沢山作りたいです(願望)  
-最近のマイブームは、C#・WPF・Livet・Git/GitHubあたり。  
-後、誰かGitとGitHub教えてください、難しくて禿げてます。ちょっと分かるようになってきたけど。
+C#とWindowsフォームを最近はやってます。.NET5,6,7はよWindowsに搭載してくれ。
 
 ## 主な制作物
 ## [棒読みさんWinForms版](https://github.com/unikuma/Bouyomisan.WinForms/releases)
