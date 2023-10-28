@@ -1,9 +1,5 @@
 # Hi there 👋
 
-## 自己紹介
-うにくまと言います。ゆっくり実況の手助けになるようなプログラムを沢山作りたいです(願望)  
-C#とWindowsフォームを最近はやってます。.NET5,6,7はよWindowsに搭載してくれ。
-
 ## 主な制作物
 ## [棒読みさんWinForms版](https://github.com/unikuma/Bouyomisan.WinForms/releases)
 AquesTalkPlayerを使って簡単にAviUtlでゆっくり動画を作れるソフトウェア。AquesTalkPlayer版ゆくサク。  
